@@ -2,8 +2,11 @@
 name = "iex-datalord"
 version = "0.1.0"
 description = "Save IEX best quotes and trades to QuestDB"
-authors = ["Amit Goren"]
 license = "BSD-2-Clause"
+authors = ["Amit Goren"]
+readme = "README.md"
+repository = "https://github.com/mmatamm/IEX-Datalord.git"
+keywords = ["IEX", "Datalord"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
